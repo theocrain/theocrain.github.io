@@ -5,4 +5,4 @@ title: My First Post
 
 # Testing
 
-Just testing a few things out.
+Just testing a few things out. You can type in here.
